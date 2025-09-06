@@ -22,15 +22,10 @@ This repository contains a prototype AI/ML pipeline to analyze the Share of Voic
 3)vaderSentiment → sentiment analysis
 4)matplotlib/plotly (optional) → visualization
 
-# Usage
-1) Clone repo
-git clone https://github.com/your-username/smartfan-sov.git
-cd smartfan-sov
-
-2) Install dependencies
+1) Install dependencies
 pip install -r requirements.txt
 
-3) Run prototype
+2) Run prototype
 python smartfan_sov.py
 
 # Example Output
